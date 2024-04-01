@@ -1,5 +1,8 @@
 ## Todo.Hub - a vibrant todo app
 
+Link of the deployed app: [KRYPTO.NITE](https://to-do-hub.netlify.app/)
+
+
 ## Table of contents
 
 - [Overview](#overview)
